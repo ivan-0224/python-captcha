@@ -7,7 +7,7 @@
 
 ## Installation
 
-Run: `pip install -U captcha-solver`
+Run: `pip install -U python-captcha`
 
 ## Twocaptcha Backend Example
 
